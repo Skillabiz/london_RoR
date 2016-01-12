@@ -20,6 +20,6 @@ notes = gets.chomp
 arr.push(company, location, size, type, rails, recruit, notes)
 
 # Append the new company to CSV file
-CSV.open("test.csv", "a+") do |csv|
+CSV.open("rubycompanies.csv", "a+") do |csv|
   csv << arr
 end
