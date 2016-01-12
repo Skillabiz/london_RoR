@@ -26,3 +26,14 @@ List of companies in London that use Ruby on Rails (for potential jobs)
 <p>Based in Old Street</p>
 <p>Team size - ?</p>
 <p>No mention of Rails, but use Ruby</p>
+
+<h5>Thoughtworks</h5>
+<p>Based in Central(Soho)</p>
+<p>Team size - ?</p>
+<p>Work - creating digital products</p>
+
+<h5>Lostmyname</h5>
+<p>Based in Hoxton (north of Shoreditch</p>
+<p>Team size - ?</p>
+
+
