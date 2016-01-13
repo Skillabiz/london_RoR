@@ -1,9 +1,10 @@
-Name,Location,Team Size,Type of company,Rails?,Job site,Notes
-Which,Great Portland Street,70,Ruby as product?,Yes,http://careersatwhich.co.uk/,None
-Shutl,Liverpool Street,Unknown,Ruby as product,Yes,https://shutl.com/uk/jobs,None
-Go Cardless,Angel,65,Unsure,Yes,https://gocardless.com/about/jobs/,None
-Made by Many,Angel,Unsure,Agency,Yes,https://madebymany.com/jobs,None
-Not on the high street,Richmond,Unsure,Ruby as product,Think so,http://www.notonthehighstreet.com/work-with-us,None
-Compare the Market,Old Street,Unsure,Ruby as product,No mention ,http://techjobs.comparethemarket.com/,None
-Thoughtworks,Soho,Unsure,Agency,Yes,https://www.thoughtworks.com/careers,None
-Lost my name,Hoxton (north of Shoreditch),Unsure,Ruby as product,Yes,http://making.lostmy.name/listings,None
+Name,Location,Team Size,Type of company,Rails?,Oher technologies,Job site,Notes
+Which,Great Portland Street,70,Ruby as product?,Yes,Not sure,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
+Shutl,Liverpool Street,Unknown,Ruby as product,Not sure,Yes,https://shutl.com/uk/jobs,None
+Go Cardless,Angel,65,Unsure,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",https://gocardless.com/about/jobs/,Code review
+Made by Many,Angel,Unsure,Agency,Yes,Sass, ES6, Node,Go, Python, Rect, Flux, Angular",https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
+Not on the high street,Richmond,Unsure,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",http://www.notonthehighstreet.com/work-with-us,Code Revie and Pairing
+Compare the Market,Old Street,Unsure,Ruby as product,No,Mainly ruby! Bit of HTML 5",http://techjobs.comparethemarket.com/,None
+Thoughtworks,Soho,Unsure,Agency,Yes,Not sure,https://www.thoughtworks.com/careers,None
+Lost my name,Hoxton (north of Shoreditch),Unsure,Ruby as product,Yes,Not sure,http://making.lostmy.name/listings,None
+
