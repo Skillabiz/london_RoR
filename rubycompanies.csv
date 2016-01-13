@@ -2,9 +2,9 @@ Name,Location,Team Size,Type of company,Rails?,Oher technologies,Job site,Notes
 Which,Great Portland Street,70,Ruby as product?,Yes,Not sure,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
 Shutl,Liverpool Street,Unknown,Ruby as product,Not sure,Yes,https://shutl.com/uk/jobs,None
 Go Cardless,Angel,65,Unsure,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",https://gocardless.com/about/jobs/,Code review
-Made by Many,Angel,Unsure,Agency,Yes,Sass, ES6, Node,Go, Python, Rect, Flux, Angular",https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
-Not on the high street,Richmond,Unsure,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",http://www.notonthehighstreet.com/work-with-us,Code Revie and Pairing
+Made by Many,Angel,Unsure,Agency,Yes,"Sass, ES6, Node,Go, Python, Rect, Flux, Angular",https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
+Not on the high street,Richmond,Unsure,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",http://www.notonthehighstreet.com/work-with-us,Code Review and Pairing
 Compare the Market,Old Street,Unsure,Ruby as product,No,Mainly ruby! Bit of HTML 5",http://techjobs.comparethemarket.com/,None
 Thoughtworks,Soho,Unsure,Agency,Yes,Not sure,https://www.thoughtworks.com/careers,None
 Lost my name,Hoxton (north of Shoreditch),Unsure,Ruby as product,Yes,Not sure,http://making.lostmy.name/listings,None
-
+Babylon Health,Near Paddington,Unknown,Ruby as product,Yes,Capistrano (Rails deployment),http://apply.babylonhealth.com/vacancies/,Contact Doctor via app
