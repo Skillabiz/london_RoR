@@ -1,16 +1,16 @@
-Name,Location,Team Size,Type of company,Rails?,Other technologies,Nice to have,Job site,Notes
-Which,Great Portland Street,70,Ruby as product?,Yes,Not sure,revisit,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
-Shutl,Liverpool Street,Unknown,Ruby as product,Not sure,Yes,revisit,https://shutl.com/uk/jobs,None
-Go Cardless,Angel,65,Unsure,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",revisit,https://gocardless.com/about/jobs/,Code review
-Made by Many,Angel,Unsure,Agency,Yes,"Sass, ES6, Node,Go, Python, Rect, Flux, Angular",revisit,https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
-Not on the high street,Richmond,Unsure,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",revisit,http://www.notonthehighstreet.com/work-with-us,Code Review and Pairing
-Compare the Market,Old Street,Unsure,Ruby as product,No,Bit of HTML 5,revisit,http://techjobs.comparethemarket.com/,None
-Thoughtworks,Soho,Unsure,Agency,Yes,Not sure,revisit,https://www.thoughtworks.com/careers,None
-Lost my name,Hoxton (north of Shoreditch),Unsure,Ruby as product,Yes,Not sure,revisit,http://making.lostmy.name/listings,None
-Babylon Health,Near Paddington,Unknown,Ruby as product,Yes,Capistrano (Rails deployment),revisit,http://apply.babylonhealth.com/vacancies/,Contact Doctor via app
-Red Badger,Old Street,Unknown,Agency,Yes,"Ract.js, Node,js, ;ess, Sas, Go, Clojure, Haskell",revisit,http://red-badger.com/about-us/join-us/,"Agile (kanban), 50:50 gender split"
-Composed,Kensington,Unknown,Ruby as product,No,"ReactJS, Android, iOS",revisit,Stack Overflow jobs,"'Help develop the API', User driven development, Competence with front end development"
-Silicon Milkroundabout,Shoreditch,Unknown,Ruby as Product,Yes,"Postgres, AWS, Heroku, Github",revisit,https://siliconmilkroundabout.workable.com/jobs,None
-The Bright Group,Battersea,N/A,Ruby as product,Yes,"Rspec, Heroku, AWS, Angular/Ember, Node.js",revisit,Found job on indeed.co.uk,None
-AOL,Warren Street,N/A,Ruby as product,Yes,"SQL, Node.js, AWS, STASH, Jquery, Coffeescript",revisit,Found on indeed.co.uk,Mainly within their advertising section
-Claimable,Old Street/Shoreditch,N/A,Ruby as product,Yes,"Javascript, JQuery, MongoDB, PostgreSQL",revisit,https://www.claimable.com/jobs,Settling insurance claims. Claims management
+Name,Location,Job Title,Salary,Type of company,Rails?,Other technologies,Nice to have,Job site,Notes
+Which,Great Portland Street,N/A,N/A,Ruby as product?,Yes,Not sure,revisit,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
+Shutl,Liverpool Street,N/A,N/A,Ruby as product,Not sure,Yes,revisit,https://shutl.com/uk/jobs,None
+Go Cardless,Angel,65,N/A,N/A,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",revisit,https://gocardless.com/about/jobs/,Code review
+Made by Many,Angel,N/A,N/A,Agency,Yes,"Sass, ES6, Node,Go, Python, Rect, Flux, Angular",revisit,https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
+Not on the high street,Richmond,N/A,N/A,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",revisit,http://www.notonthehighstreet.com/work-with-us,Code Review and Pairing
+Compare the Market,Old Street,N/A,N/A,Ruby as product,No,Bit of HTML 5,revisit,http://techjobs.comparethemarket.com/,None
+Thoughtworks,Soho,N/A,N/A,Agency,Yes,Not sure,revisit,https://www.thoughtworks.com/careers,None
+Lost my name,Hoxton (north of Shoreditch),N/A,N/A,Ruby as product,Yes,Not sure,revisit,http://making.lostmy.name/listings,None
+Babylon Health,Near Paddington,N/A,N/A,Ruby as product,Yes,Capistrano (Rails deployment),revisit,http://apply.babylonhealth.com/vacancies/,Contact Doctor via app
+Red Badger,Old Street,N/A,N/A,Agency,Yes,"Ract.js, Node,js, ;ess, Sas, Go, Clojure, Haskell",revisit,http://red-badger.com/about-us/join-us/,"Agile (kanban), 50:50 gender split"
+Composed,Kensington,N/A,N/A,Ruby as product,No,"ReactJS, Android, iOS",revisit,Stack Overflow jobs,"'Help develop the API', User driven development, Competence with front end development"
+Silicon Milkroundabout,Shoreditch,N/A,N/A,Ruby as Product,Yes,"Postgres, AWS, Heroku, Github",revisit,https://siliconmilkroundabout.workable.com/jobs,None
+The Bright Group,Battersea,N/A,N/A,Ruby as product,Yes,"Rspec, Heroku, AWS, Angular/Ember, Node.js",revisit,Found job on indeed.co.uk,None
+AOL,Warren Street,N/A,N/A,Ruby as product,Yes,"SQL, Node.js, AWS, STASH, Jquery, Coffeescript",revisit,Found on indeed.co.uk,Mainly within their advertising section
+Claimable,Old Street/Shoreditch,N/A,N/A,Ruby as product,Yes,"Javascript, JQuery, MongoDB, PostgreSQL",revisit,https://www.claimable.com/jobs,Settling insurance claims. Claims management
