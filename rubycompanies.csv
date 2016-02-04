@@ -1,16 +1,17 @@
 Name,Location,Job Title,Salary,Type of company,Rails?,Other technologies,Nice to have,Job site,Notes
-Which,Great Portland Street,N/A,N/A,Ruby as product?,Yes,Not sure,revisit,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
-Shutl,Liverpool Street,N/A,N/A,Ruby as product,Not sure,Yes,revisit,https://shutl.com/uk/jobs,None
-Go Cardless,Angel,65,N/A,N/A,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",revisit,https://gocardless.com/about/jobs/,Code review
-Made by Many,Angel,N/A,N/A,Agency,Yes,"Sass, ES6, Node,Go, Python, Rect, Flux, Angular",revisit,https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
-Not on the high street,Richmond,N/A,N/A,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",revisit,http://www.notonthehighstreet.com/work-with-us,Code Review and Pairing
+Which,Great Portland Street,N/A,N/A,Ruby as product?,Yes,Not sure,doesn't say,http://www.which.co.uk/static/whichdigitalcareers/index.html,Agile team
+Shutl,Liverpool Street,Software Engineer (Ruby),Experienced (4+ years),Ruby as product,Not sure,Yes,"Android, ios",https://shutl.com/uk/jobs,None
+Go Cardless,Angel,65,Software Engineer (ongoing),N/A,Yes,"Javascript, Angular, Postgres, Elasticsearch, RabbitMQ, Chef",doesn't say,https://gocardless.com/about/jobs/,Code review
+Made by Many,Angel,Full-stack Rails developer,2+ years,Agency,Yes,"Sass, ES6, Node,Go, Python, Rect, Flux, Angular",doesn't say,https://madebymany.com/jobs,Involved in strategy and direction of product - small self organised teams - Agile techniques
+Not on the high street,Richmond,Ruby Engineer,Experienced,Ruby as product,Yes,"Java, Javascript (ExtJS), Testing using Cucumber, delivery with Jenkins",experience with payment gateways,http://www.notonthehighstreet.com/work-with-us,Code Review and Pairing
 Compare the Market,Old Street,N/A,N/A,Ruby as product,No,Bit of HTML 5,revisit,http://techjobs.comparethemarket.com/,None
-Thoughtworks,Soho,N/A,N/A,Agency,Yes,Not sure,revisit,https://www.thoughtworks.com/careers,None
-Lost my name,Hoxton (north of Shoreditch),N/A,N/A,Ruby as product,Yes,Not sure,revisit,http://making.lostmy.name/listings,None
-Babylon Health,Near Paddington,N/A,N/A,Ruby as product,Yes,Capistrano (Rails deployment),revisit,http://apply.babylonhealth.com/vacancies/,Contact Doctor via app
+Thoughtworks,Soho,N/A,N/A,Agency,Yes,Not sure,doesn't say,https://www.thoughtworks.com/careers,None
+Lost my name,Hoxton (north of Shoreditch),N/A,N/A,Ruby as product,Yes,Not sure,doesn't say,http://making.lostmy.name/listings,None
+Babylon Health,Near Paddington,Ruby Developer,N/A,Ruby as product,Yes,"SASS, coffeescript, backbone.jsCapistrano (Rails deployment)","TDD/BDD, AWS, Agile etc, ",http://apply.babylonhealth.com/vacancies/,Contact Doctor via app
 Red Badger,Old Street,N/A,N/A,Agency,Yes,"Ract.js, Node,js, ;ess, Sas, Go, Clojure, Haskell",revisit,http://red-badger.com/about-us/join-us/,"Agile (kanban), 50:50 gender split"
 Composed,Kensington,N/A,N/A,Ruby as product,No,"ReactJS, Android, iOS",revisit,Stack Overflow jobs,"'Help develop the API', User driven development, Competence with front end development"
-Silicon Milkroundabout,Shoreditch,N/A,N/A,Ruby as Product,Yes,"Postgres, AWS, Heroku, Github",revisit,https://siliconmilkroundabout.workable.com/jobs,None
+Silicon Milkroundabout,Shoreditch,Full stack developer,£45-60k has shipped many apps,Ruby as Product,Yes,"Postgres, AWS, Heroku, Github","Eye for design, agile, community engagement, experience coaching",https://siliconmilkroundabout.workable.com,None
 The Bright Group,Battersea,N/A,N/A,Ruby as product,Yes,"Rspec, Heroku, AWS, Angular/Ember, Node.js",revisit,Found job on indeed.co.uk,None
 AOL,Warren Street,N/A,N/A,Ruby as product,Yes,"SQL, Node.js, AWS, STASH, Jquery, Coffeescript",revisit,Found on indeed.co.uk,Mainly within their advertising section
-Claimable,Old Street/Shoreditch,N/A,N/A,Ruby as product,Yes,"Javascript, JQuery, MongoDB, PostgreSQL",revisit,https://www.claimable.com/jobs,Settling insurance claims. Claims management
+Claimable,Old Street/Shoreditch,Junior Ruby on Rails Developer,N/A,Ruby as product,Yes,"Javascript, JQuery, MongoDB, PostgreSQL",revisit,https://www.claimable.com/jobs,Settling insurance claims. Claims management
+Composed,Kensington,Ruby Developer,mid-level,Ruby as product,No,Jenkins,Stack Overflwo Jobs,Working with API that feeds through to Front end. Scrum and continuous delivery
