@@ -12,8 +12,10 @@ p "Company type (agency/ruby as internal service/ruby as product): "
 type = gets.chomp
 p "Rails? (Yes/No/Unsure) "
 rails = gets.chomp
-p "Other technologies: "
+p "Other technologies (separate with commas): "
 other_tech = gets.chomp
+p "Nice to have (seperate with commas):"
+nice = gets.chomp
 p "Recruitment webpage: "
 recruit = gets.chomp
 p "Notes: "
